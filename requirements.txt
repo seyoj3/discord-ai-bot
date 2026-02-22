@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+groq
+pycoingecko
+aiohttp
+ccxt
+pandas
